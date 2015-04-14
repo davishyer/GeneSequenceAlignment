@@ -1,0 +1,9 @@
+C:\Users\s300ca\Documents\Winter 2015\CS312\GeneSequenceAlignment\03-genesequencealign\bin\Release\GeneticsLab.exe.config
+C:\Users\s300ca\Documents\Winter 2015\CS312\GeneSequenceAlignment\03-genesequencealign\bin\Release\GeneticsLab.exe
+C:\Users\s300ca\Documents\Winter 2015\CS312\GeneSequenceAlignment\03-genesequencealign\bin\Release\GeneticsLab.pdb
+C:\Users\s300ca\Documents\Winter 2015\CS312\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.MainForm.resources
+C:\Users\s300ca\Documents\Winter 2015\CS312\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.Properties.Resources.resources
+C:\Users\s300ca\Documents\Winter 2015\CS312\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.csproj.GenerateResource.Cache
+C:\Users\s300ca\Documents\Winter 2015\CS312\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.exe
+C:\Users\s300ca\Documents\Winter 2015\CS312\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.pdb
+C:\Users\s300ca\Documents\Winter 2015\CS312\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.csprojResolveAssemblyReference.cache
